@@ -17,6 +17,6 @@
     "jsonwebtoken": "^8.5.1",
     "nunjucks": "^3.2.3",
     "puppeteer": "^18.2.1",
-    "sqlite-async": "1.1.2"
+    "sqlite-async": "1.2.0"
   }
 }
